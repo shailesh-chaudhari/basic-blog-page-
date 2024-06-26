@@ -1,0 +1,45 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    text-align: center;
+    background-color: lightsalmon;
+    padding: 1em 0;
+}
+
+header nav span {
+    display: inline;
+    margin: 0 15px;
+    font-weight: bold;
+}
+
+main {
+    margin: 20px;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+article {
+    margin-bottom: 40px;
+    padding-bottom: 20px;
+    border-bottom: 1px solid #eeeeee;
+}
+
+article h2 {
+    color: #333333;
+    margin-bottom: 10px;
+}
+
+article p {
+    color: #666666;
+    line-height: 1.6;
+}
+
+footer {
+    background-color: lightsalmon;
+    text-align: center;
+    padding: 1em 0;
+}
